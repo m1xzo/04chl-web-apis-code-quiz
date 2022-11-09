@@ -198,9 +198,10 @@ function submitQuiz () {
             // Display message if user input contains inappropriate characters
             messageEl.style.visibility = `visible`;
             displayMessage(`Initials: Letters only`);
+            // Cleanup the input field
+            initInput.value = ``;
         } else {
             // Cleanup the form
-            initInput.value = ``;
             quizEl.innerHTML = ``;
             // Store user scores
             var userScore = {initials: init, score: secondsLeft};
