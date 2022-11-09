@@ -16,7 +16,7 @@ After click on the start button, a timer starts and a question presented. 75 is 
 ## Screenshot
 
 The following image shows the web application's appearance and functionality:
-![The Code Quiz includes a header, a card with a title and a brief description, and a button to start the quiz.](./Assets/images/chrome-capture-2022-11-7.gif)
+![The Code Quiz includes a header, a card with a title and a brief description, and a button to start the quiz.](./assets/images/chrome-capture-2022-11-7.gif)
 
 ## Link
 
